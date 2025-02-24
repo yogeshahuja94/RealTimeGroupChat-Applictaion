@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "password": "securepass"
+    },
+    {
+      "id": "8338",
+      "username": "Yogi123",
+      "password": "Yogi1234"
+    },
+    {
+      "id": "f6fd",
+      "username": "Yogesh5555",
+      "password": "Yogesh12345"
+    },
+    {
+      "id": "ba3f",
+      "username": "Shrey1452",
+      "password": "Shrey@1111"
+    },
+    {
+      "id": "9d95",
+      "username": "Sachin5263",
+      "password": "Sachin963"
+    },
+    {
+      "id": "920a",
+      "username": "Faisal7869",
+      "password": "Faisal000"
+    },
+    {
+      "id": "5c67",
+      "username": "Abhishek3214",
+      "password": "Abhishek9876"
+    },
+    {
+      "id": "4d90",
+      "username": "Aditya7000",
+      "password": "Aditya0123"
+    }
+  ]
+}
